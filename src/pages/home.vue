@@ -1,5 +1,7 @@
 <template>
     <div class="container">
+    <h1>123</h1>
+
         <header>
             <router-link to="/home/recommend" tag="span">推荐</router-link>
             <router-link to="/home/hot" tag="span">热歌榜</router-link>
